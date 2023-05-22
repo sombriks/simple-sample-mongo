@@ -1,0 +1,8 @@
+
+### Save one doc
+POST http://localhost:8080/todos
+Content-Type: application/json
+
+{
+  "description": "insert a meningful description here"
+}
